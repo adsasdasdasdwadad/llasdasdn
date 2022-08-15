@@ -1,0 +1,5 @@
+flask
+requests
+regex
+urllib3
+gunicorn
